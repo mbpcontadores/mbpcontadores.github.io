@@ -1,0 +1,23 @@
+#navbar{
+
+    background-color:rgb(255,255,255);
+    color: rgb(95,32,89);
+}
+
+#logo_empresa{
+
+    width: 70px;
+}
+
+#navigation{
+
+    color: rgb(93,33,90);
+    
+}
+
+#cabecera{
+
+    filter: grayscale(0%) hue-rotate(37deg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
